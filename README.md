@@ -1,0 +1,1 @@
+This MATLAB project uses AI-powered image recognition to analyze financial candlestick patterns, identifying key trends like bullish or bearish reversals. By mapping patterns to trading strategies, it provides actionable insights (buy, sell, hold) via real-time analysis, empowering users with data-driven decision-making in the stock market.
